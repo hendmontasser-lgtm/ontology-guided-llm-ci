@@ -2,9 +2,11 @@
 
 Replication package for the paper:
 
-> **When Does Ontology Guidance Improve LLM Knowledge Extraction? A Relation-Level Analysis for Competitive Intelligence Knowledge Graphs**
+> When Do Domain Constraints Improve Extraction Quality?
+A Relation-Level Study in Competitive Intelligence with a New Annotated Benchmark
+
 > Hend Montasser, Helwan University, Cairo, Egypt.
-> *Under review at Engineering Applications of Artificial Intelligence (EAAI-26-22294).*
+
 
 This repository contains the domain ontology, extraction pipeline, prompts, and gold-standard
 evaluation datasets used in the study, including a newly released hand-annotated dataset for
