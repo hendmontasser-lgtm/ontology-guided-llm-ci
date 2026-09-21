@@ -1,0 +1,7 @@
+# Core dependencies
+anthropic>=0.40.0      # Claude API client (required for --provider anthropic)
+openai>=1.50.0         # OpenAI API client (required for --provider openai)
+
+# Statistical analysis (optional — only needed to recompute significance tests)
+scipy>=1.11.0
+numpy>=1.24.0
